@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "assert-plus": "1.0.0",
-    "nan": "^2.11.0"
+    "nan": "^2.11.0",
+    "node-gyp": "^3.6.3"
   },
   "devDependencies": {
     "bunyan": "2.0.2",
