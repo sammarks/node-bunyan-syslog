@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "assert-plus": "1.0.0",
-    "nan": "^2.7.0"
+    "nan": "^2.11.0"
   },
   "devDependencies": {
     "bunyan": "2.0.2",
